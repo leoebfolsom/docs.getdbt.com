@@ -54,7 +54,7 @@ Developer plans are free and include one Developer license and 5,000 models each
 
 ### Team plan billing 
 
-Team customers pay monthly via credit card for seats and usage, and accounts include 20,000 models monthly. Seats are charged upfront at the beginning of the month. If you add seats during the month, seats will be prorated and charged on the same day. Seats removed during the month will be reflected on the next invoice and are not eligible for refunds. You can change the credit card information and the number of seats from the billings section anytime. Accounts will receive one monthly invoice that includes the upfront charge for the seats and the usage charged in arrears from the previous month. 
+Team customers pay monthly via credit card for seats and usage, and accounts include 20,000 models monthly. Seats are charged upfront at the beginning of the month. If you add seats during the month, seats will be prorated and charged on the same day. Seats removed during the month will be reflected on the next invoice and are not eligible for refunds. You can change the credit card information and the number of seats from the billings section any time. Accounts will receive one monthly invoice that includes the upfront charge for the seats and the usage charged in arrears from the previous month. 
 
 Usage is calculated and charged in arrears for the previous month. If you exceed 20,000 models in any month, you will be billed for additional usage on your next invoice. Additional use is billed at the rates on our [pricing page](https://www.getdbt.com/pricing). 
 
@@ -63,7 +63,7 @@ Included models that are not consumed do not roll over to future months. You can
 
 `($100 x number of developer seats) + ((models built - 20,000) x $0.01)`
 
-If you cancel your plan, the plan will remain active through the end of the current billing period and may continue to accrue usage. Please review the Managing usage section [#managing-usage] below to avoid further usage accruing. If your account has exceeded the 20,000 included successful models built during the month of cancellation, a usage invoice will be sent the following month.
+If you cancel your plan, the plan will remain active through the end of the current billing period and may continue to accrue usage. Please review the [Managing usage](#managing-usage) section below to avoid further usage accruing. If your account has exceeded the 20,000 included successful models built during the month of cancellation, a usage invoice will be sent the following month.
 
 :::note Legacy pricing plans
  
